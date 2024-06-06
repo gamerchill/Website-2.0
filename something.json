@@ -90,77 +90,319 @@
     "colors": ["#aa00ff", "#5500ff"]
   },
   {
-    "name": "User 3",
+    "name": "Will",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#00ff44", "#00ff88"]
   },
   {
-    "name": "User 3",
+    "name": "Fred",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#00ff44", "#00ff88"]
   },
   {
-    "name": "User 3",
+    "name": "Meqless",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#00ff44", "#00ff88"]
   },
   {
-    "name": "User 3",
+    "name": "Flwr (Flower)",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#00ff44", "#00ff88"]
   },
   {
-    "name": "User 3",
+    "name": "Frost",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#00ff44", "#00ff88"]
   },
   {
-    "name": "User 3",
+    "name": "Ben/Benjamin",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#00ff44", "#00ff88"]
   },
   {
-    "name": "User 3",
+    "name": "Panda",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#00ff44", "#00ff88"]
   },
   {
-    "name": "User 3",
+    "name": "Hat/Hatty",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#00ff44", "#00ff88"]
   },
   {
-    "name": "User 3",
+    "name": "Strafe",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#00ff44", "#00ff88"]
   },
   {
-    "name": "User 3",
+    "name": "Draezer",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#00ff44", "#00ff88"]
   },
   {
-    "name": "User 3",
+    "name": "Joel",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#00ff44", "#00ff88"]
   },
   {
-    "name": "User 3",
+    "name": "Clutchy",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#00ff44", "#00ff88"]
   },
   {
-    "name": "User 3",
+    "name": "Rex",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#00ff44", "#00ff88"]
   },
   {
-    "name": "User 3",
+    "name": "David",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#00ff44", "#00ff88"]
   },
   {
-    "name": "User 3",
+    "name": "Speedy",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#000", "#00ff88"]
+  },
+  {
+    "name": "GatorRoo",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Nick (Preset)",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Nick JR",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Imagine",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Kevin",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Manzarch",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Pop",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Orange",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Sam",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Saph",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Charles",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Arrow",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Brooklyn",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Dnaku",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Gekko",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Crazy",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "DarkAngel",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Floofy",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Apple",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Harry",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Hazrol",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "ItsEdits",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "JevGeek",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "DK",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Korah",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Hailey",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "MB17",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Blaze",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Octo",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Darth",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Aidan",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Kiwi",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Miina",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Rocket",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Lei",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Inco",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Nathan K.",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Jayden",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Megs",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Kewi",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "CDuck",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Breeze",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Jaz",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Sawyer/Robin",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "DualWielded",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "SnxwyRainbow",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "McLadder",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Dome",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Cavey",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Kristian",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Otter",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Damage",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },
+  {
+    "name": "ShadowPheonix",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Prixony",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Jayzer",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Dragon",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "Welch",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "GamerKitty",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  },  {
+    "name": "WizMagicStan",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#00ff44", "#00ff88"]
+  } , {
+    "name": "Bonelab/your",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#00ff44", "#00ff88"]
   }
