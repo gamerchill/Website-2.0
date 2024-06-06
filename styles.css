@@ -156,3 +156,13 @@ h2 {
 .txt-rotate > .wrap {
   border-right: 0.08em solid #666;
 }
+
+/* Hide the menu initially */
+.menu ul {
+  display: none;
+}
+
+/* Show the menu when the hamburger menu is clicked */
+.menu.active ul {
+  display: block;
+}
