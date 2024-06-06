@@ -27,7 +27,7 @@ h2 {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 2em; /*? remove this when you figure out the issue*/
 }
 
 h2 {
@@ -45,8 +45,8 @@ h2 {
 
 .container-input {
   position: relative;
-  width: 290px; /* Adjust width as needed */
-  margin: 0 auto; /* Center horizontally */
+  width: 290px; 
+  margin: 0 auto; /* FIX THIS SOON PLEASEEEEEE */
   margin-bottom: 20px;
   margin-top: 40px;
 }
