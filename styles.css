@@ -1,3 +1,8 @@
+header {
+  position: relative;
+  margin-bottom: 8px;
+}
+
 body {
   background-color: #2c2c2c;
 }
@@ -10,21 +15,32 @@ body {
   font-size: 18px;
   background: #222;
   color: #aaa;
+
+  text-align: center;
 }
 
 h1,
 h2 {
   font-weight: 200;
   margin: 0.4em 0;
+  text-wrap: wrap;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 2em;
 }
 
 h2 {
   color: #888;
-  font-size: 2em;
+  font-size: 1.5em;
+}
+
+.txt-rotate {
+  margin-bottom: 50px;
+}
+
+#real {
+  color:red;
 }
 
 .container-input {
@@ -166,3 +182,6 @@ h2 {
 .menu.active ul {
   display: block;
 }
+
+
+
