@@ -137,7 +137,7 @@ h2 {
   right: 6px;
   bottom: 6px;
   background-color: rgba(0, 0, 0, 0.6);
-  z-index: 2;
+  z-index: 3;
   border-radius: 1em;
 }
 
@@ -155,7 +155,7 @@ h2 {
 .card .content {
   position: relative;
   padding: 10px;
-  z-index: 10;
+  z-index: 9;
   width: 100%;
   height: 100%;
   display: flex;
@@ -233,22 +233,22 @@ h2 {
 .toggle {
   left: 0;
 
-  z-index: 5;
+  z-index: 10;
 
 }
 .toggle-menu {
   background-color: rgba(0, 0, 0, 0.2);
   position: fixed;
-  top: 2rem;
-  left: 2rem;
-  width: 4rem;
-  height: 3rem;
+  top: 1rem;
+  left: 1rem;
+  width: 1rem;
+  height: 1rem;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   padding: 0.2rem 0.5rem;
   border-radius: 0.5rem;
-  z-index: 5;
+  z-index: 10;
   /* From https://css.glass */
   background: rgba(255, 255, 255, 0.2);
   border-radius: 16px;
@@ -282,6 +282,7 @@ h2 {
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
   border: 1px solid rgba(255, 255, 255, 0.3);
+  z-index: 10;
 }
 .nav-list {
   list-style: none;
@@ -291,13 +292,14 @@ h2 {
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
   border: 1px solid rgba(255, 255, 255, 0.3);
-  z-index: 5;
+  z-index: 100;
 }
 .nav-list-item {
   text-align: center;
   padding: 1rem 0;
   width: 100%;
   height: 100%;
+  z-index: 8;
 }
 .nav-link {
   color: #fff;
