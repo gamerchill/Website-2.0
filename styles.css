@@ -325,3 +325,8 @@ h2 {
 .nav-link:hover::before {
   transform: scaleX(1);
 }
+
+.second-part {
+
+margin-top: 50px;
+}
