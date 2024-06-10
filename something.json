@@ -22,12 +22,12 @@
   {
     "name": "Delta",
     "url": "https://chillmaster.me/thegoats",
-    "colors": ["#FF69B4", "#F88379"]
+    "colors": ["#fadadd", "#FFB6C1"]
   },
   {
     "name": "Katt",
     "url": "https://chillmaster.me/thegoats",
-    "colors": ["#ff00ff", "#ff58ff"]
+    "colors": ["#ff00ff", "#ff58ff", "#ffbc00"]
   },
   {
     "name": "Emilie",
@@ -38,6 +38,11 @@
     "name": "Sp3ctre",
     "url": "https://chillmaster.me/thegoats",
     "colors": ["#ffaa00", "#ff5500"]
+  },
+  {
+    "name": "Toastie",
+    "url": "https://chillmaster.me/thegoats",
+    "colors": ["#f2c2e0", "#ff5500"]
   },
   {
     "name": "Feaar",
@@ -219,7 +224,7 @@
   },  {
     "name": "Dnaku",
     "url": "https://chillmaster.me/thegoats",
-    "colors": ["#00ff44", "#00ff88"]
+    "colors": ["#093b7a", "#56cc1f"]
   },  {
     "name": "Gekko",
     "url": "https://chillmaster.me/thegoats",
