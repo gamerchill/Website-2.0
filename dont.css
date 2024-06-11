@@ -1,0 +1,163 @@
+.container-input {
+    position: relative;
+    width: 290px; 
+    margin: 0 auto; /* FIX THIS SOON PLEASEEEEEE */
+    margin-bottom: 20px;
+    margin-top: 40px;
+  }
+  
+  .input {
+    height: 90px;
+    width: 250px;
+    padding: 10px 0px 10px 40px;
+    border-radius: 9999px;
+    border: solid 1px #000000;
+    transition: all 0.2s ease-in-out;
+    outline: none;
+    opacity: 0.8;
+    margin: center;
+  }
+  
+  .container-input svg {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translate(0, -50%);
+  }
+  
+  .input:focus {
+    opacity: 1;
+    width: 300px;
+  }
+
+  .exception {
+    color: aqua;
+  }
+
+  .ex-desc {
+    font-size: 7px;
+  }
+
+
+  [data-user-cards-container] {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: center;
+  }
+  
+  [data-header] {
+    position: absolute;
+    margin: auto;
+    text-align: 50%;
+    width: 50%;
+    height: 50%;
+    top: 0; left: 0; bottom: 0; right: 0;
+    text-wrap: wrap;
+    font-size: 1em;
+  }  
+  .card {
+    position: relative;
+    width: 190px;
+    height: 254px;
+    color: #fff;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 20px;
+    border-radius: 0px;
+    margin-top: 30px;
+  }
+  
+  .card:hover {
+    transform: translateY(-20px);
+  }
+  
+  .card::before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(45deg, var(--color1), var(--color2));
+    border-radius: 1.2em;
+  }
+  
+  .card::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, var(--color1), var(--color2));
+    filter: blur(30px);
+  }
+  
+  .card span {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    right: 6px;
+    bottom: 6px;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 3;
+    border-radius: 1em;
+  }
+  
+  .card span::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 20px 0 0 20px; /* top-left radius, top-right radius, bottom-right radius, bottom-left radius */
+  }
+  
+  .card .content {
+    position: relative;
+    padding: 10px;
+    z-index: 9;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    margin-left: -5%;
+    text-align: 50%;
+    text-wrap: wrap;
+    font-size: 1em;
+  }
+  
+  .card a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    height: 100%;
+    border-radius: 20px;
+  }
+  
+  .hide {
+    display: none;
+  }
+  
+  /* Text Rotate Animation */
+  .txt-rotate > .wrap {
+    border-right: 0.08em solid #666;
+  }
+  
+  /* Hide the menu initially */
+  .menu ul {
+    display: none;
+  }
+  
+  /* Show the menu when the hamburger menu is clicked */
+  .menu.active ul {
+    display: block;
+  }
