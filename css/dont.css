@@ -4,11 +4,13 @@
     margin: 0 auto; /* FIX THIS SOON PLEASEEEEEE */
     margin-bottom: 20px;
     margin-top: 40px;
+    margin-left: 180px;
+    position: center;
   }
   
   .input {
     height: 90px;
-    width: 250px;
+    width: 350px;
     padding: 10px 0px 10px 40px;
     border-radius: 9999px;
     border: solid 1px #000000;
@@ -16,6 +18,8 @@
     outline: none;
     opacity: 0.8;
     margin: center;
+    position: 50px;
+    color: #000000;
   }
   
   .container-input svg {
@@ -27,7 +31,7 @@
   
   .input:focus {
     opacity: 1;
-    width: 300px;
+    width: 400px;
   }
 
   .exception {
