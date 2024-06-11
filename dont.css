@@ -52,7 +52,7 @@
     text-align: 50%;
     width: 50%;
     height: 50%;
-    top: 0; left: 0; bottom: 0; right: 0;
+    top: 0; left: 10px; bottom: 0; right: 0;
     text-wrap: wrap;
     font-size: 1em;
   }  
