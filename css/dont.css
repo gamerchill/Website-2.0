@@ -4,21 +4,19 @@
     margin: 0 auto; /* FIX THIS SOON PLEASEEEEEE */
     margin-bottom: 20px;
     margin-top: 40px;
-    margin-left: 180px;
     position: center;
   }
   
   .input {
     height: 90px;
-    width: 350px;
-    padding: 10px 0px 10px 40px;
+    width: 250px;
+    padding: 9px 0px 10px 40px;
     border-radius: 9999px;
     border: solid 1px #000000;
     transition: all 0.2s ease-in-out;
     outline: none;
     opacity: 0.8;
-    margin: center;
-    position: 50px;
+    margin: auto;
     color: #000000;
   }
   
@@ -31,7 +29,7 @@
   
   .input:focus {
     opacity: 1;
-    width: 400px;
+    width: 300px;
   }
 
   .exception {
