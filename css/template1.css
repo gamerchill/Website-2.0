@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One|Open+Sans:300,400');
+
+body, html {
+  height: 100%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
+
+h1 {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 4.5rem;
+  letter-spacing: 0.5rem;
+}
+
+p {
+  margin-top: 1rem;
+}
+
+.LOL {
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+a {
+  color: #5bc0de;
+}
+
+a:hover {
+  color: #31b0d5;
+  text-decoration: none;
+}
+
+#hm {
+  min-height: 100%;
+  color: black;
+}
+
+.heading, .middle {
+  color: #fff;
+  left: 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+
+.heading {
+  top: 40%; /* Adjust positioning as needed */
+}
+
+.middle {
+  top: 30%; /* Adjust positioning as needed */
+}
+
+.bg-img1 {
+  background-size: 106% auto; /* Adjust background size */
+  background: url('https://wallpapercave.com/wp/wp1906348.png');
+  /* Replace with your image URLs */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100%;
+  position: relative;
+  width: 100%;
+  padding: 0%;
+  padding-top: 0px;
+}
+
+.bg-img2 {
+    background-size: 106% auto; /* Adjust background size */
+    background: url('https://images8.alphacoders.com/132/1329400.jpeg');
+    /* Replace with your image URLs */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100%;
+    position: relative;
+    width: 100%;
+    padding: 0%;
+    padding-top: 0px;
+  }
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 850px;
+  width: 100%;
+}
+
+.card {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.card-text {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+@media only screen and (max-device-width: 1024px) {
+  .bg-img1, .bg-img2 {
+    background-attachment: scroll;
+  }
+  .heading, .middle {
+    top: 0%;
+  }
+}
+
+.footer {
+    position: center;
+}
+
+header {
+    margin-top: 10px;
+}
+
+.parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    min-height: 100%;
+    position: relative;
+  }
+
+#hm .losingmymind {
+    color: black;
+}
+
+.container {
+    margin-top: 150px;
+    margin-bottom: 150px;
+    text-align: center;
+}
